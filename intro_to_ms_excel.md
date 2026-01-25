@@ -31,6 +31,7 @@ cleaned data, and analysis.
 - **Columns** - Vertical (A, B, C ...)
 - **Rows** - Horizontal (1, 2, 3, ...)
 - **Cell** - The intersection of a row and a column (e.g., A1)
+  ![Interface](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/imy0yn0340vl7ctk5tuu.png)
 
 ## Types of Data in Excel
 
@@ -63,9 +64,6 @@ If your data is already in Excel format (`.xlsx`), you can open it directly:
 
 **File -> Open -> Select `.xlsx` File**
 
-> [!todo] screenshot
-> image expected here
-
 This is the quickest option when working with previously saved datasets.
 
 ### Import Data into Excel
@@ -88,9 +86,7 @@ Duplicate rows can distort results.
 **Data -> Remove Duplicates**
 
 This removes repeated entries based on selected columns.
-
-> [!todo] screenshot
-> image expected here
+![Duplicate Button](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/48rp3osju5mqgp5uftjn.png)
 
 ### Cleaning Text with Functions
 
@@ -112,8 +108,7 @@ Filtering allows you to focus on specific values.
 **Data -> Filter**
 This is useful when exploring a subset of large datasets.
 
-> [!todo] screenshot
-> image expected here
+![Filter Button](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h0fa8yckxq78p6e9dqbb.png)
 
 ## Step 3: Essential Excel Formulas for Analysis
 
@@ -175,9 +170,7 @@ Steps:
 
 PivotTables are commonly used to calculate totals, averages, and counts by
 category.
-
-> [!todo] screenshot
-> image expected here
+![PivotTable](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6yxuwlzok805ea4gbn9h.png)
 
 ## Step 5: Data Visualization with Charts
 
@@ -189,8 +182,7 @@ Steps:
 - Go to **Insert -> Charts**
 - Choose a suitable chart type (Column, Line, or Bar)
 - Add titles and labels for clarity
-  > [!todo] screenshot
-  > image expected here
+  ![Chart](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zlw1cm2vhagkpqf3uehl.png)
 
 Microsoft Excel is a powerful starting point for anyone interested in data analytics.
 With features such as data cleaning tools, formulas, PivotTables, and charts,
