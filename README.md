@@ -1,6 +1,6 @@
 # Introduction to MS Excel for Data Analytics
 
-This repository contains a beginner-friendly Git and GitHub tutorial published on Dev.to.
+This repository contains an introduction to microsoft excel tutorial published on Dev.to.
 
 Read the article on dev.to
 [Introduction to MS
